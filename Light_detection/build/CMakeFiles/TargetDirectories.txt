@@ -1,0 +1,3 @@
+/home/chenrui/pnx/Light_detection/build/CMakeFiles/light.dir
+/home/chenrui/pnx/Light_detection/build/CMakeFiles/edit_cache.dir
+/home/chenrui/pnx/Light_detection/build/CMakeFiles/rebuild_cache.dir
