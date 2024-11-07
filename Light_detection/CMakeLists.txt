@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 3.11)
-project(light)
-add_executable(light ./Light_detection.cpp)
-find_package(OpenCV REQUIRED)
-target_link_libraries(light ${OpenCV_LIBS})
